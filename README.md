@@ -18,6 +18,21 @@ Created a professional Excel dashboard to analyze customer demographics and bike
 
 > Ideal for businesses needing fast, insightful data views to guide decisions.
 
+## 🚴‍♂ Key Insights
+
+- **Higher Income, Higher Sales**  
+  Males with higher average income (~₹60K) are more likely to purchase bikes than females.
+
+- **Middle Age Dominates**  
+  Most purchases come from middle-aged customers—prime target group.
+
+- **Short Distances Matter**  
+  Bike purchases drop significantly as commute distance increases. People riding <1 mile are top buyers.
+
+- **Segmentation Power**  
+  Use filters (Gender, Region, Education) to uncover patterns across demographics.
+
+
 ## 💡 Skills
 
 Microsoft Excel · Excel Dashboards · Data Analysis · Data Cleaning · Business Analysis
